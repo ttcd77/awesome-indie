@@ -382,6 +382,14 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+
+- **[Invoice Chaser](https://ttcd77.github.io/invoice-chaser-templates/demo.html)**
+
+  Interactive invoice tracking tool with a 5-stage email reminder system for chasing late payments. Runs entirely in-browser with zero dependencies and zero signup. Free demo; $9 one-time template pack. MIT licensed. By [Selfloom](https://github.com/ttcd77).
+
+- **[Scope Creep Prevention Kit](https://ttcd77.github.io/invoice-chaser-templates/scope-creep-kit/)**
+
+  Five professional templates (Proposal, SOW, Change Order, Revision Policy, Pushback Scripts) for freelancers to stop scope creep before it starts. Free 3-script sample; $12 one-time full kit. MIT licensed. By [Selfloom](https://github.com/ttcd77).
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
